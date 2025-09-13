@@ -10,10 +10,10 @@ AkhilK004/AkhilK004** is a ✨ _special_ ✨ repository because its `README.md` 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a student in ABV-IIITM Gwalior 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning about web technologies
 - 👯 I’m looking to collaborate on projects related to web development 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about : 
+- Lifelong learner | Tech enthusiast | Open to opportunities
+
 - 📫 How to reach me: sonkarrishu1526@gmail.com
 - ⚡ Fun fact: ...
 
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AkhilK004&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
